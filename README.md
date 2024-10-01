@@ -34,7 +34,7 @@ I am a versatile professional with a background in banking, cybersecurity, educa
 - SANG JAWARA
 - TAHUKAH KAU, WAHAI YANG ‘BISU’
 
-**Medium Articles and Course Write-Ups @ <a href="https://www.jendelasastra.com/user/elisabettacharlotte" target="_blank">Jendela Sastra</a> (_2014_)**
+**Medium Articles and Course Write-Ups @ <a href="https://www.jendelasastra.com/user/elisabettacharlotte" target="_blank">Medium</a> (_2014_)**
 - Safeguarding the Digital Realm: A Personal Journey into the Importance of Cybersecurity for B2B Enterprises <a href="https://medium.com/@virainfosec1/safeguarding-the-digital-realm-a-personal-journey-into-the-importance-of-cybersecurity-for-b2b-1dbfe3f1b787/" target="_blank">Link</a>
 
 ## 💼 Work experience 
