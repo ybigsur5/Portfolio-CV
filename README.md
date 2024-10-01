@@ -78,6 +78,7 @@ Best KPI Achievement Half-Year 2023
 - ESAS Management | Certified Professional Fraud Investigator (.CPFI) (2023)
 - RedHat Enterprise Linux | Red Hat Certified System Administrator (RHCSA-EX200)
 - Studi DevSecOps | Become SOC Analyst Batch 1 (Mar 2023)
+- Cantrill | AWS Certified Solutions Architect - Associate (SA-CO3), AWS Certified Security - Specialty, AWS Certified DevOps Engineer - Professional,AWS Certified Advanced Networking - Specialty, AWS Certified SysOps Administrator - Associate
 - Udemy | Certified Advanced Persistent Threat Analyst, IT Support Technical Skills Bootcamp, Scrum Master Certification 2024 + Agile Scrum Certification, Information Security A-Z™: Complete Cyber Security Bootcamp, Doctor of Naturopathic Medicine Advanced Diploma, Forensic Science - Certification (Accredited from Global Forensic Services ISO 9001:2015 Certified and Registered under Government of India MSME)
 - LRQA | ISO 27001:2022 Lead Auditor
 - Rootbrain IT Consulting | Training Digital Forensic
@@ -105,3 +106,4 @@ Best KPI Achievement Half-Year 2023
 | **Marketing**   | Sales Garis Keras | 
 | **Philantrophy**   | Yayasan Insan Bahagia (Xingfu) No. 048 | 
 | **Tech**   | Relawan TIK Kalbar | 
+| **University**   | SENATE / BEM (Senate Member as Vice-Secretary, Secretary, and Head of Graphic Design) | 
