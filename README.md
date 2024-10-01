@@ -8,8 +8,8 @@ I am a versatile professional with a background in banking, cybersecurity, educa
 
 - Programming Languages: _Proficient in HTML, CSS, PHP, SQL, JavaScript, C++, C#, and Python; experience with PowerShell, Active Directory, Cloud Computing, and multiple Linux distributions.
 - Digital Forensics: _Data Acquisition (Live, Static, Logical, Physical),Analysis (File, Network Traffic, Memory, registry, Timeline, Artifact),Preservation (Write Blocker, Chain of Custody, Hashing, Encryption),Tools (Autopsy, FTK Imager, Sleuth Kit, Wireshark, Volatility, MDF3, EnCase, Helix, Magnet AXIOM, Oxygen Forensic Analyzer, Cellbrite Physical Analyzer)_
-- Cybersecurity: _Red Team skills including Vulnerability Assessment, Ethical Hacking, Network Pentesting, Social Engineering, Exploit Development, Scripting, Tools (Metasploit, Burp Suite, Nmap, Nessus, Hydra, Cobalt Strike) _
-  _Also Blue Teamer skills includes Incident Response, Threat Intelligence, Security Monitoring, Log Analysis, Malware Analysis, SOC Management, Tools (Splunk, Elasticsearch, Logstash, Kibana, QRadar, ArcSight, Crowdstrike Falcon)_
+- Cybersecurity: _Red Team skills including Vulnerability Assessment, Ethical Hacking, Network Pentesting, Social Engineering & OSINT, Exploit Development, Scripting, Tools (Metasploit, Burp Suite, Nmap, Nessus, Hydra, Cobalt Strike) _
+  _Also Blue Teamer skills includes Incident Response, Threat Intelligence, Security Monitoring, Log Analysis, Malware Analysis, SOC Management, Tools (Splunk, Elasticsearch, Logstash, Kibana, IBM QRadar, ArcSight, Crowdstrike Falcon, Symantec,RSA NetWitness, Rapid7 InsightIDR )_
 
 #### 🖱️Additional Skills:**
   
@@ -34,7 +34,7 @@ I am a versatile professional with a background in banking, cybersecurity, educa
 - SANG JAWARA
 - TAHUKAH KAU, WAHAI YANG ‘BISU’
 
-**Medium Articles and Course Write-Ups @ <a href="https://www.jendelasastra.com/user/elisabettacharlotte" target="_blank">Medium</a> (_2014_)**
+**Medium Articles and Course Write-Ups @ <a href="https://www.jendelasastra.com/user/elisabettacharlotte" target="_blank">Medium</a> (_2022_)**
 - Safeguarding the Digital Realm: A Personal Journey into the Importance of Cybersecurity for B2B Enterprises <a href="https://medium.com/@virainfosec1/safeguarding-the-digital-realm-a-personal-journey-into-the-importance-of-cybersecurity-for-b2b-1dbfe3f1b787/" target="_blank">Link</a>
 
 ## 💼 Work experience 
@@ -45,6 +45,7 @@ I am a versatile professional with a background in banking, cybersecurity, educa
 - Configured and maintained firewalls to ensure the security of the corporate network
 
 **Personal Financial Advisor @ <a href="[https://www.maybank.co.id/]" target="_blank">PT Bank Maybank Indonesia Tbk.</a> (_January 2023 - November 2023_)**
+
 Frontliner Acceleration Programme
 KCP AYANI PONTIANAK
 - Prepared financial statements and reports, providing timely and meaningful analysis of financial data
