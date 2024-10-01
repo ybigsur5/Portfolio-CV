@@ -92,8 +92,8 @@ Best KPI Achievement Half-Year 2023
 
 |     |     |
 |:----|:----|
-| **TiCard Pingcap Namecard** | https://ticard.pingcap.com/seagpqrpabwe |
-| **LinkedIn** | <a href="https://www.linkedin.com/in/avira-avira-151567118/" target="_blank">Visit Link</a> |
+| **TiCard Pingcap Namecard** | <a href="https://ticard.pingcap.com/seagpqrpabwe" target="_blank">Download Name Card</a> |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/avira-avira-151567118/" target="_blank">Visit LinkedIn</a> |
 | **Threads** | <a href="https://www.threads.net/@alinavik.cellist?xmt=AQGzSpVTEEhZwzIAMGDaXl1ytnmA4gchLySQY_XWZJb_75Q" target="_blank">Visit Threads</a> |
 | **X/Twitter** | <a href="https://x.com/ViraSecurity" target="_blank">Visit X/Twitter</a> |
 | **Medium:** | <a href="https://medium.com/@virainfosec1" target="_blank">Visit Medium</a> |
