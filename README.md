@@ -13,7 +13,7 @@ I am a versatile professional with a background in banking, cybersecurity, educa
 
 #### 🖱️Additional Skills:**
   
-- Technical Skills (Highlight): Cloud Security, Data Privacy, Incident Response Planning, Threat Hunting, Security Automation, DevSecOps, Microsoft Office, Canva
+- Technical Skills (Highlight): Cloud Security, Data Privacy, Incident Response Planning, Threat Hunting, Security Automation, DevSecOps, Microsoft Office
 - Medicine: Traditional Chinese Medicine ( Herbal, Acupuncture, Tuina, Moxibustion, Cupping), Thibbun Nabawi (Bekam Sunnah/ Al-Hijammah)
 - Forensic Science: Biological Evidence Analysis, Decomposition Analysis, Microscopic Techniques, Forensic Anthropology, Crime Scene Investigation, Bioinformatics, Ballistic Forensics
 - Soft Skills : Adaptibility, Problem-solving, Analytical Thinking, Communication
@@ -28,19 +28,21 @@ I am a versatile professional with a background in banking, cybersecurity, educa
 - Forensic Biology of Decomposition in West Virginia's Autumn Landscapes
 - Microbial Metagenomics of Decomposing Remains in Extreme Environments
 - The Digital Detective: A Forensic Investigator's Guide to Leveraging Digital Tools for Biological Evidence Analysis
+
 **Poetry @ <a href="https://www.jendelasastra.com/user/elisabettacharlotte" target="_blank">Jendela Sastra</a> (_2014_)**
 - BARAGAJUL
 - SANG JAWARA
 - TAHUKAH KAU, WAHAI YANG ‘BISU’
+
 **Medium Articles and Course Write-Ups @ <a href="https://www.jendelasastra.com/user/elisabettacharlotte" target="_blank">Jendela Sastra</a> (_2014_)**
 - Safeguarding the Digital Realm: A Personal Journey into the Importance of Cybersecurity for B2B Enterprises <a href="https://medium.com/@virainfosec1/safeguarding-the-digital-realm-a-personal-journey-into-the-importance-of-cybersecurity-for-b2b-1dbfe3f1b787"target="_blank">Link</a>
 
 ## 💼 Work experience 
 **SOC Analyst L1 @ <a href="[https://www.dbs.com.sg/index/default.page]" target="_blank">DBS Bank Ltd.</a> (_December 2023 - Present_)**
--Analyzed network traffic to identify malicious activity, such as malware, phishing, and other cyber threats
--Performed vulnerability assessments to identify and address system weaknesses and potential risks
--Monitored and responded to security incidents, ensuring that all security threats were mitigated and appropriate countermeasures were taken
--Configured and maintained firewalls to ensure the security of the corporate network
+- Analyzed network traffic to identify malicious activity, such as malware, phishing, and other cyber threats
+- Performed vulnerability assessments to identify and address system weaknesses and potential risks
+- Monitored and responded to security incidents, ensuring that all security threats were mitigated and appropriate countermeasures were taken
+- Configured and maintained firewalls to ensure the security of the corporate network
 
 **Personal Financial Advisor @ <a href="[https://www.maybank.co.id/]" target="_blank">PT Bank Maybank Indonesia Tbk.</a> (_January 2023 - November 2023_)**
 Frontliner Acceleration Programme
