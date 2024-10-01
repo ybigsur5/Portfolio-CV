@@ -16,16 +16,20 @@ I am a versatile professional with a background in banking, cybersecurity, educa
 - **S1**, Teknologi Informatika	| <a href="https://www.patriaartha.com/" target="_blank">Universitas Patria Artha</a> (_Sept 2022 - Now_)	 			        		
 - **D3**, Bahasa Inggris | <a href="https://widyadharma.ac.id/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
 
-## 🔬 Experience
-**Ph.D. research @<a href="https://tnau.ac.in/" target="_blank">TNAU</a> (_2021 - 2023_)**
-- Developed and applied advanced tissue culture techniques like embryo culture to rapidly generate **somaclonal variants of rice** with improved salinity stress tolerance.
-- Identified and validated novel genomic regions **(QTLs)** governing salinity tolerance through **molecular mapping** in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
-- Employed **multi-omics approaches** including GC-MS metabolomics to uncover key genes and metabolites linked to superior osmotic/ionic adjustment under salt stress.
-
-**Research scholar @ <a href="https://www.icrisat.org/" target="_blank">ICRISAT</a> (_2018 - 2020_)**
-- Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea – genotyped 1,980 plants/samples combined) to examine intra and inter accession genetic diversity. 
-- Single plant genotyping of accessions using **<a href="https://www.diversityarrays.com/" target="_blank">DArTSeq</a> based SNPs**.
-- Harnessed whole genome genotyping, simulations, and predictive modeling to provide integrated insights into the dynamics of genetic variation across a species' range, by quantifying genomic diversity within and between isolated subpopulations, and developed optimized statistical frameworks to guide sustainable sampling regimes that limit genetic drift.
+## 🔬 Literary Experience
+**Critical Review Scientific Paper @ <a href="https://www.apu.apus.edu/online-certificate-programs/undergraduate-certificate-in-forensics/" target="_blank">American Public University</a> (_2020_)**
+- Forensic Biology of Decomposition in West Virginia's Autumn Landscapes
+- Microbial Metagenomics of Decomposing Remains in Extreme Environments
+- The Digital Detective: A Forensic Investigator's Guide to Leveraging Digital Tools for Biological Evidence Analysis
+**Poetry @ <a href="https://www.jendelasastra.com/user/elisabettacharlotte" target="_blank">Jendela Sastra</a> (_2014_)**
+- BARAGAJUL
+Puisi — Sabtu, 14 Februari 2015 - 15:25
+- SANG JAWARA
+Puisi — Sabtu, 14 Februari 2015 - 15:26
+- TAHUKAH KAU, WAHAI YANG ‘BISU’
+Puisi — Minggu, 8 Maret 2015 - 12:03
+**Medium Articles and Course Write-Ups @ <a href="https://www.jendelasastra.com/user/elisabettacharlotte" target="_blank">Jendela Sastra</a> (_2014_)**
+  -Safeguarding the Digital Realm: A Personal Journey into the Importance of Cybersecurity for B2B Enterprises <a href="https://medium.com/@virainfosec1/safeguarding-the-digital-realm-a-personal-journey-into-the-importance-of-cybersecurity-for-b2b-1dbfe3f1b787"target="_blank">Link</a>
 
 ## 💼 Work experience 
 **SOC Analyst L1 @ <a href="[https://www.dbs.com.sg/index/default.page]" target="_blank">DBS Bank Ltd.</a> (_December 2023 - Present_)**
