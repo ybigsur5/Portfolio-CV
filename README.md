@@ -18,8 +18,6 @@ I am a versatile professional with a background in banking, cybersecurity, educa
 - Forensic Science: Biological Evidence Analysis, Decomposition Analysis, Microscopic Techniques, Forensic Anthropology, Crime Scene Investigation, Bioinformatics, Ballistic Forensics
 - Soft Skills : Adaptibility, Problem-solving, Analytical Thinking, Communication
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybigsur5)](https://github.com/ybigsur5/github-readme-stats)
-
 ## 🎓 Education
 - **S1**, Biology | <a href="https://unibabwi.ac.id/" target="_blank">Universitas PGRI Banyuwangi</a> (_Sept 2023 - Now_)		  		
 - **S1**, Teknologi Informatika	| <a href="https://www.patriaartha.com/" target="_blank">Universitas Patria Artha</a> (_Sept 2022 - Now_)	 			        		
