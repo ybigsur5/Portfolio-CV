@@ -35,7 +35,7 @@ I am a versatile professional with a background in banking, cybersecurity, educa
 - TAHUKAH KAU, WAHAI YANG ‘BISU’
 
 **Medium Articles and Course Write-Ups @ <a href="https://www.jendelasastra.com/user/elisabettacharlotte" target="_blank">Jendela Sastra</a> (_2014_)**
-- Safeguarding the Digital Realm: A Personal Journey into the Importance of Cybersecurity for B2B Enterprises <a href="https://medium.com/@virainfosec1/safeguarding-the-digital-realm-a-personal-journey-into-the-importance-of-cybersecurity-for-b2b-1dbfe3f1b787"target="_blank">Link</a>
+- Safeguarding the Digital Realm: A Personal Journey into the Importance of Cybersecurity for B2B Enterprises <a href="https://medium.com/@virainfosec1/safeguarding-the-digital-realm-a-personal-journey-into-the-importance-of-cybersecurity-for-b2b-1dbfe3f1b787/" target="_blank">Link</a>
 
 ## 💼 Work experience 
 **SOC Analyst L1 @ <a href="[https://www.dbs.com.sg/index/default.page]" target="_blank">DBS Bank Ltd.</a> (_December 2023 - Present_)**
@@ -93,10 +93,10 @@ Best KPI Achievement Half-Year 2023
 |     |     |
 |:----|:----|
 | **TiCard Pingcap Namecard** | https://ticard.pingcap.com/seagpqrpabwe |
-| **Threads** | https://www.threads.net/@alinavik.cellist?xmt=AQGzSpVTEEhZwzIAMGDaXl1ytnmA4gchLySQY_XWZJb_75Q |
-| **LinkedIn** | https://www.linkedin.com/in/avira-avira-151567118/ |
-| **Medium:** | https://medium.com/@virainfosec1 |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/v%C3%A2nia-c-renn%C3%B3-azevedo-21493449/" target="_blank">Visit Page</a> |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/avira-avira-151567118/" target="_blank">Visit Link</a> |
+| **Threads** | <a href="https://www.threads.net/@alinavik.cellist?xmt=AQGzSpVTEEhZwzIAMGDaXl1ytnmA4gchLySQY_XWZJb_75Q" target="_blank">Visit Threads</a> |
+| **X/Twitter** | <a href="https://x.com/ViraSecurity" target="_blank">Visit X/Twitter</a> |
+| **Medium:** | <a href="https://medium.com/@virainfosec1" target="_blank">Visit Medium</a> |
 
 
 ## 📚 Organizations and Curricular Activities
