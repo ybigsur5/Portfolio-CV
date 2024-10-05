@@ -19,16 +19,16 @@ I am a versatile professional with a background in banking, cybersecurity, educa
 - Soft Skills : Adaptibility, Problem-solving, Analytical Thinking, Communication
 
 ## 🎓 Education
-- **S1**, Biology | <a href="https://unibabwi.ac.id/" target="_blank">Universitas PGRI Banyuwangi</a> (_Sept 2023 - Now_)		  		
-- **S1**, Teknologi Informatika	| <a href="https://www.patriaartha.com/" target="_blank">Universitas Patria Artha</a> (_Sept 2022 - Now_)	 			        		
-- **D3**, Bahasa Inggris | <a href="https://widyadharma.ac.id/" target="_blank">Universitas Widya Dharma Pontianak</a> (_JUL 2013 - JUL 2017_)
+- **S1**, Biology | <a href="https://unibabwi.ac.id/" target="_blank">Universitas PGRI Banyuwangi, Banyuwangi </a> (_Sept 2023 - Now_)		  		
+- **S1**, Teknologi Informatika	| <a href="https://www.patriaartha.com/" target="_blank">Universitas Patria Artha, Gowa </a> (_Sept 2022 - Now_)	 			        		
+- **D3**, Bahasa Inggris | <a href="https://widyadharma.ac.id/" target="_blank">Universitas Widya Dharma , Pontianak</a> (_JUL 2013 - JUL 2017_)
+- **Undergraduate Cert**, Forensics | <a href="https://www.apu.apus.edu/online-certificate-programs/undergraduate-certificate-in-forensics/" target="_blank">American Public University, Charles Town WV USA | Online Undergraduate Certificate Program</a> (_Nov 2020 - Oct 2021_)
 
 ## 🔬 Literary Experience
-**Critical Review Scientific Paper @ <a href="https://www.apu.apus.edu/online-certificate-programs/undergraduate-certificate-in-forensics/" target="_blank">American Public University</a> (_2020_)**
+**Critical Review Scientific Paper and Articles @ <a href="https://www.apu.apus.edu/online-certificate-programs/undergraduate-certificate-in-forensics/" target="_blank">American Public University</a> (_2020_)**
 - Forensic Biology of Decomposition in West Virginia's Autumn Landscapes
 - Microbial Metagenomics of Decomposing Remains in Extreme Environments
-- The Digital Detective: A Forensic Investigator's Guide to Leveraging Digital Tools for Biological Evidence Analysis
-
+  
 **Poetry @ <a href="https://www.jendelasastra.com/user/elisabettacharlotte" target="_blank">Jendela Sastra</a> (_2014_)**
 - BARAGAJUL
 - SANG JAWARA
